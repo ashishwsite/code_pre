@@ -1,0 +1,12 @@
+// size of string is 12 bite
+//size of vector given by size.v//size give by dot oprator and name
+// for geting square root used sqrt function
+// double data type ,point 4 digit tak float valu deta hai
+// for calculating power of a^b , we used pow(a,b)  function
+// FUNCTION OVERLORDING ONLY BY 1- BY changing no . of arrgument 
+//                              2-  by changing the data type of arrgumnt
+// deafault parameter in functon is fun(int x=9, int y)-> y is deafult parameter
+///                                 # and default written at right side
+//ARRAY IF we not initiallize the array then it is mandatory to mention the size
+  //(array +1)[4]=*(array 1+4)=*(array+5)
+  // in vector no output run after pop opration 

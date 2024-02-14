@@ -1,0 +1,21 @@
+#include <bits/stdc++.h>
+int fib(int n){
+	if(n==0)
+	 return 0;
+	if(n==1)
+	 return 1;
+	return (fib(n-1)+fib(n-2));
+} 
+int fiboSum(int n , int m)
+{
+	// Write your code here
+	int sum=0;
+	int  mo=1000000007;
+	for(int i=n;i<=m;i++){
+		sum=(sum+fib(i))%mo;
+
+	}
+}
+int main(){
+    
+}

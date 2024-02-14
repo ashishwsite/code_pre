@@ -1,0 +1,5 @@
+My name is ramashish kumar thakur 
+now i have learn the iostrem
+ifstream
+ofstrem
+file to console
